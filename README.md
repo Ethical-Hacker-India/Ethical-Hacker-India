@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Founder+of+Vishal+Infosec+AI;Ethical+Hacker;Cybersecurity+Researcher;Penetration+Tester;Python+Developer;Linux+Enthusiast;AI+%2B+Cybersecurity;Hack+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%F0%9F%9A%80"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vishalparmar73847464-cpu&label=Profile%20Views&color=22C55E&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/vishalparmar73847464-cpu?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/vishalparmar73847464-cpu?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Ethical-Hacker-India&label=Profile%20Views&color=22C55E&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Ethical-Hacker-India?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Ethical-Hacker-India?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 </div>
@@ -93,9 +93,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalparmar73847464-cpu&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ethical-Hacker-India&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalparmar73847464-cpu&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethical-Hacker-India&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishalparmar73847464-cpu&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ethical-Hacker-India&theme=tokyonight"/>
 
 </p>
 
@@ -115,7 +115,7 @@
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/22C55E/vishalparmar73847464-cpu" alt="Vishal's GitHub contribution chart"/>
+<img src="https://ghchart.rshah.org/22C55E/Ethical-Hacker-India" alt="Vishal's GitHub contribution chart"/>
 
 </p>
 

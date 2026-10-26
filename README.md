@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ethical Hacker
 
-### 🛡️ Ethical Hacker • Cybersecurity Researcher • Penetration Tester
+### 🎓 Ethical Hacker • Cybersecurity Researcher • Penetration Tester 🛡️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Founder+of+Vishal+Infosec+AI;Ethical+Hacker;Cybersecurity+Researcher;Penetration+Tester;Python+Developer;Linux+Enthusiast;AI+%2B+Cybersecurity;Hack+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%F0%9F%9A%80"/>
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="215" viewBox="0 0 330 215" role="img" aria-label="Vishal's GitHub Stats">
+  <rect x="0.5" y="0.5" rx="4.5" width="329" height="214" fill="#1a1b27" stroke="#2f3148"/>
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600" fill="#70a5fd">Vishal's GitHub Stats</text>
+  <circle cx="33" cy="65" r="4" fill="#bf91f3"/>
+  <text x="48" y="70" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Total Stars Earned:</text>
+  <text x="230" y="70" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">4</text>
+  <circle cx="33" cy="90" r="4" fill="#bf91f3"/>
+  <text x="48" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Total Commits:</text>
+  <text x="230" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">23</text>
+  <circle cx="33" cy="115" r="4" fill="#bf91f3"/>
+  <text x="48" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Total PRs:</text>
+  <text x="230" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">0</text>
+  <circle cx="33" cy="140" r="4" fill="#bf91f3"/>
+  <text x="48" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Total Issues:</text>
+  <text x="230" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">0</text>
+  <circle cx="33" cy="165" r="4" fill="#bf91f3"/>
+  <text x="48" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Public Repos:</text>
+  <text x="230" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">5</text>
+  <circle cx="33" cy="190" r="4" fill="#bf91f3"/>
+  <text x="48" y="195" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Followers:</text>
+  <text x="230" y="195" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">7</text>
+</svg>

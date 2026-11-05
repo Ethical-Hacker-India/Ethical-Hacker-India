@@ -93,9 +93,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ethical-Hacker-India&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="./assets/github-stats.svg" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethical-Hacker-India&layout=compact&theme=tokyonight"/>
+<img height="170" src="./assets/github-langs.svg" alt="Top Languages"/>
 
 </p>
 
@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ethical-Hacker-India&theme=tokyonight"/>
+<img src="./assets/github-streak.svg" alt="GitHub Streak"/>
 
 </p>
 

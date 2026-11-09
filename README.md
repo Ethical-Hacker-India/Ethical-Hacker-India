@@ -115,7 +115,7 @@
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/22C55E/Ethical-Hacker-India" alt="Vishal's GitHub contribution chart"/>
+<img src="https://ghchart.rshah.org/22C55E/Ethical-Hacker-India" alt="Ethical Hacker GitHub contribution chart"/>
 
 </p>
 

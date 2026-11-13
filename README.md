@@ -163,7 +163,7 @@
 
 🌍 **Website:** https://vishalinfosec.in
 
-☕ **Buy Me a Coffee:** https://buymeacoffee.com/vishal.infosec.ai
+☕ **Buy Me a Coffee:** https://buymeacoffee.com/ethical.hacker.india
 
 ---
 

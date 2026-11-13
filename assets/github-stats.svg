@@ -6,7 +6,7 @@
   <text x="230" y="70" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">4</text>
   <circle cx="33" cy="90" r="4" fill="#bf91f3"/>
   <text x="48" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Total Commits:</text>
-  <text x="230" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">24</text>
+  <text x="230" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">26</text>
   <circle cx="33" cy="115" r="4" fill="#bf91f3"/>
   <text x="48" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#a9b1d6">Total PRs:</text>
   <text x="230" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#38bdae">0</text>
